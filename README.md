@@ -35,6 +35,8 @@
 
 ---
 
+<p>Этот бот – часть проекта по ребрендингу студенческого сообщества HSE LIVE. Полный проект можно посмотреть на <a href="https://www.behance.net/gallery/207422179/HSE-LIVE">Behance</a> и <a href="https://dprofile.ru/case/67039/studenceskoe-media-hse-live">Dprofile</a>.</p>
+
 <p>В фирменном стиле использован шрифт <a href="https://github.com/googlefonts/roboto-flex">Roboto Flex</a>.</p>
 
 <p>Создано для внутреннего использования участниками клуба.</p>
